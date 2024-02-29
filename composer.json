@@ -20,7 +20,7 @@
     "require": {
         "php": "~8.3",
         "laravel/framework": "^10.0",
-        "livewire/livewire": "^3.0"
+        "livewire/livewire": "^2.0"
     },
     "require-dev": {
         "dive-be/php-crowbar": "^1.0",
